@@ -127,9 +127,9 @@ main()
 }
 
 # Foto hasil
-![img](https://github.com/arifhanifanudin/praktikum06/blob/master/latihan01/hasil01.PNG)
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum06/master/latihan01/hasil01.PNG)
 
-![img]()
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum06/master/latihan01/hasil02.PNG)
 
-![img]()
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum06/master/latihan01/hasil03.PNG)
 
